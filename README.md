@@ -1,0 +1,12 @@
+- Quais as entidades de domínio?
+    - estoque [id, product]
+    - produto [id, infos, color, min]
+    - venda[ id, product, quantity createAt]
+    - compra
+    - 
+
+- Quais as ações (casos de uso) que essa aplicação deve ter?
+    - ratsrear [X]
+    - alertar quando estiver ficando sem o produto [X]
+    - verificar historico de venda
+    - verificar historico de estoque

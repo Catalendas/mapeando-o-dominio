@@ -1,0 +1,16 @@
+{
+  "name": "mapeando-o-dominio",
+  "version": "1.0.0",
+  "description": "- Quais as entidades de domínio?\r     - estoque [id, product]\r     - produto [id, infos, color, min]\r     - venda[ id, product, quantit createAt]\r     - compra\r     -",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "typescript": "^5.6.3"
+  }
+}
